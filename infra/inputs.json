@@ -358,6 +358,32 @@
       ],
       "create_oidc_clients": false
     },
+    "cmumaps-mobile": {
+      "name": "CMU Maps Mobile",
+      "description": "Mobile app for CMU Maps.",
+      "members": {
+        "github_usernames": [
+          "Yuxiang-Huang"
+        ],
+        "andrew_ids": [
+          "yh4"
+        ]
+      },
+      "admins": {
+        "github_usernames": [
+          "Yuxiang-Huang"
+        ],
+        "andrew_ids": [
+          "yh4"
+        ]
+      },
+      "repos": [
+        "cmumaps-mobile"
+      ],
+      "create_oidc_clients": true,
+      "website": "",
+      "server": "mobile.maps.scottylabs.org"
+    },
     "goldador": {
       "name": "Goldador",
       "description": "Responsible for governance in Labrador.",

@@ -708,26 +708,6 @@
       "create_oidc_clients": true,
       "website": "collegecart.org",
       "server": "collegecart.org"
-    },
-    "cmu-study": {
-      "name": "CMU Study",
-      "description": "The CMU Study team.",
-      "members": {
-        "github_usernames": [],
-        "andrew_ids": [
-          "annadavi"
-        ]
-      },
-      "admins": {
-        "github_usernames": [],
-        "andrew_ids": [
-          "annadavi"
-        ]
-      },
-      "repos": [],
-      "create_oidc_clients": true,
-      "website": "study.scottylabs.org",
-      "server": "study.scottylabs.org"
     }
   }
 }

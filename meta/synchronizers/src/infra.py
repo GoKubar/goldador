@@ -53,7 +53,7 @@ LEGACY_DATA = {
         "website": "collegecart.org",
         "server": "collegecart.org",
     },
-    "cmustudy": {
+    "cmu-study": {
         "name": "CMU Study",
         "description": "The CMU Study team.",
         "members": {

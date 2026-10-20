@@ -221,10 +221,14 @@
       "description": "Briefly allows users to curate multiple newsletters\nbased on their interests like in sports or finance.\nAn AI will automatically generate the newsletter described and email\nit to users at user-specified times.\n",
       "members": {
         "github_usernames": [
+          "Aaron123456789123456789",
+          "KevinL135",
           "cahove"
         ],
         "andrew_ids": [
-          "chove"
+          "aaronch2",
+          "chove",
+          "kevinlu3"
         ]
       },
       "admins": {

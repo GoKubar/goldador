@@ -43,4 +43,4 @@ leads = ["GoKubar"] #jaysen & aarush add yourselves
 # List of members for this timeframe.
 [[membership.members]]
 github-username = "GoKubar"
-title = "Lead"           # The title is optional.
+title = "Lead"              # The title is optional.

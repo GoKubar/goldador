@@ -12,7 +12,7 @@ a lightweight, native ide.
 # only the local client. Dev, staging, and prod clients are created once the
 # server is set. An empty website uses "+" as the root URL.
 website = "flash-tex.github.io/flashtex/"
-server = "N/A" #to add in the future
+server = "N/A"                            #to add in the future
 
 # Set the `create-oidc-clients` field to `false` if the team does not need OIDC
 # clients. OIDC clients are necessary if you want to use ScottyLabs' auth system!
@@ -26,7 +26,7 @@ create-oidc-clients = false
 # List of repositories owned by the team.
 # Note that the owners of the repositories must be ScottyLabs-Labrador.
 [[repos]]
-name = "flashtex" # discuss moving this to ScottyLabs-Labrador at some point
+name = "flashtex"                      # discuss moving this to ScottyLabs-Labrador at some point
 description = "the main flashtex repo" #we should probably split the engine and app at some point
 
 # List of membership records by timeframe.
@@ -43,7 +43,7 @@ leads = ["GoKubar"] #jaysen & aarush add yourselves
 # List of members for this timeframe.
 [[membership.members]]
 github-username = "n/a"
-title = "n/a" # The title is optional.
+title = "n/a"           # The title is optional.
 
 [[membership.members]]
 github-username = "n/a"
